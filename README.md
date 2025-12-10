@@ -12,7 +12,7 @@ This project analyzes sales data to uncover trends in revenue, regional performa
 
 ## 🖼 Dashboard Preview
 
-![Sales Performance Dashboard](Sales%20Dashboard.png)
+![Sales Performance Dashboard](Dashboard%20Preview.png)
 
 ---
 
